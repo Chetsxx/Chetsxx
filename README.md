@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetna 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Japanese
-- 💞️ Here I post my pratice projects 
+- 💞️ Here I post my practice projects 
 - 📫 Please look forward to my future projects
 
 <!---
